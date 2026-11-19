@@ -1,0 +1,5 @@
+PROJECTS SECTION
+
+1. Personal Profile Website
+2. Plant Disease Detection
+3. Food Safety Analyzer
