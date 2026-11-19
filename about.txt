@@ -1,0 +1,7 @@
+ABOUT SECTION
+
+This section contains personal information
+and a short introduction about the student.
+
+The student is interested in programming,
+technology and developing innovative projects.
